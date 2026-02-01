@@ -206,8 +206,8 @@ Your continued use of the App after changes constitutes acceptance of the update
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-- **Company**: Codeloop Software
-- **Email**: sales@codeloopsoftware.com
+- **Company**: Trjas
+- **Email**: trjas.dev@gmail.com
 
 ---
 
